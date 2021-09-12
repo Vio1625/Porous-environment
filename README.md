@@ -15,6 +15,12 @@ This function create an array with pxn² white cells (represented by a one). The
 
 This function takes the array of black and white cells created by init function and fills the white cells connected to the top of the array with blue. The blue represents flowing water and the water is propagated between the white cells with a common edge
 
+***Exemple***
+
+This is the representation with p=0.6
+
+<p align="center"><img src="Picture/.PNG"></p align="center">
+<p align="center"><img src="Picture/n.PNG"></p align="center">
 
 
 ##  Water's probability to pass
@@ -26,6 +32,8 @@ This function is used to create the water flow probability curve. It is created 
 ***proba***
 This function plots the water flow probabilty curve depending on the p, the probability of each cell to be white.
 
+<p align="center"><img src="Picture/Introduction.PNG"></p align="center">
+
 
 ## Occupation density
 
@@ -36,6 +44,8 @@ This function is adapted to calculate the blue cells number. It is usning the re
 ***densite*** 
 
 Function that plots the occupation density depending on the probability p (probability to have a white cell)'''
+
+<p align="center"><img src="Picture/Introduction.PNG"></p align="center">
  
 ## Menu
 
