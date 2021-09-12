@@ -24,3 +24,24 @@ This function takes the array of black and white cells created by init function 
 This function is used to create the water flow probability curve. It is created like the remplissage function but instead of returning a filled array, it is returning a boolean (true if the water has passed, false otherwise).
 
 ***proba***
+This function plots the water flow probabilty curve depending on the p, the probability of each cell to be white.
+
+
+## Occupation density
+
+***remplissage2*** 
+
+This function is adapted to calculate the blue cells number. It is usning the remplissage function but instead of returning the filled array, it is returning the blue cells number.
+
+***densite*** 
+
+Function that plots the occupation density depending on the probability p (probability to have a white cell)'''
+ 
+## Menu
+
+There are three choices in the menu:
+
+ 1. The program plots the porous environment before and after the passage of the water 
+ 2. To see the water flow probability curve
+ 3. To see the curve of density's water occupation
+
