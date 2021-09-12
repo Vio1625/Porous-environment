@@ -1,5 +1,7 @@
 # Porous-environment
 
+<p align="center"><img src="Picture/Introduction.png"></p align="center">
+
 ## Introduction
 
 This program has been created to model the flow of water in a porous environment. Imagine a rock in which there are holes. The probability to have a hole is represented by p. Now, our goal is to determine if the water will pass through this rock or if the water will be stopped inside the rock.
