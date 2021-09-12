@@ -19,8 +19,8 @@ This function takes the array of black and white cells created by init function 
 
 This is the representation with p=0.6
 
-<p align="center"><img src="Picture/.PNG"></p align="center">
-<p align="center"><img src="Picture/n.PNG"></p align="center">
+<p align="center"><img src="Picture/p=0,6 before.png"></p align="center">
+<p align="center"><img src="Picture/p=0,6 after.png"></p align="center">
 
 
 ##  Water's probability to pass
@@ -32,7 +32,7 @@ This function is used to create the water flow probability curve. It is created 
 ***proba***
 This function plots the water flow probabilty curve depending on the p, the probability of each cell to be white.
 
-<p align="center"><img src="Picture/Introduction.PNG"></p align="center">
+<p align="center"><img src="Picture/probability_curve.png"></p align="center">
 
 
 ## Occupation density
@@ -45,7 +45,7 @@ This function is adapted to calculate the blue cells number. It is usning the re
 
 Function that plots the occupation density depending on the probability p (probability to have a white cell)'''
 
-<p align="center"><img src="Picture/Introduction.PNG"></p align="center">
+<p align="center"><img src="Picture/density.png"></p align="center">
  
 ## Menu
 
